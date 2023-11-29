@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - criar_conta.md
+    - criar_repositorio.md
+    - repositorio_inct.md
+    - teams.md
+
+website:
+  title: "Tutorial"
+  sidebar: 
+    title: "" 
+    logo: EECBio-logo3.png   
+    style: "docked"
+    contents:
+      - section: "Sumário"
+        contents:
+          - criar_conta.md
+          - criar_repositorio.md
+          - repositorio_inct.md
+          - teams.md
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

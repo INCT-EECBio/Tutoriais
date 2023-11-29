@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "criar_repositorio.html",
+    "href": "criar_repositorio.html",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": "",
+    "text": "Após criar a conta no GitHub, no canto esquerdo da página clique em Create repository, para iniciar a criação de um repositório.\nNessa página crie um nome para o repositório, escolha se ele será público ou privado, faça uma descrição do projeto, adicione um arquivo README, um arquivo .gitignore e escolha uma licença."
+  },
+  {
+    "objectID": "criar_repositorio.html#readme",
+    "href": "criar_repositorio.html#readme",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": "README",
+    "text": "README\nEm todo repositório deve haver um arquivo README descrevendo o repositório. O arquivo README é escrito em Markdown e deve conter um título do projeto ou do artigo relacionado ao projeto, a licença do projeto, como o projeto deve ser citado, uma descrição das pastas e dos arquivos. Pode haver também outros itens opcionais como uma descrição dos dados, para facilitar a compreensão do usuário sobre o projeto, e a apresentação do financiamento. Aqui há um exemplo de README."
+  },
+  {
+    "objectID": "criar_repositorio.html#gitignore",
+    "href": "criar_repositorio.html#gitignore",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": ".gitignore",
+    "text": ".gitignore\nO arquivo .gitignore permite a nomeação de arquivo que não devam ser tornados públicos, ou que não devam ser colocados no repositório. Esse arquivo pode ser adicionado no momento da criação do repositório ou após a sua criação. Para incluir um arquivo .gitignore após a criação do repositório, crie um documento de texto (.txt) nomeado .gitignore e adicione no texto os nomes ou caminhos dos arquivos que devem ser omitidos do repositório. Informações mais detalhadas podem ser encontradas aqui."
+  },
+  {
+    "objectID": "criar_repositorio.html#licença",
+    "href": "criar_repositorio.html#licença",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": "Licença",
+    "text": "Licença\nOs repositórios do INCT-EECBio tem como objetivo tornar os projetos desenvolvidos mais acessíveis para um público amplo. Portanto sugerimos que os repositórios tenham licenças Open Source. Aqui há várias opções de licenças que podem ser escolhidas para o seu repositório, incluindo as Open Source. Na maioria das vezes a licença MIT será adequada, permitindo uso comercial, distribuição, modificação e uso privado, sendo condicionado o uso da mesma licença e a citação do projeto original."
+  },
+  {
+    "objectID": "criar_repositorio.html#tópicos",
+    "href": "criar_repositorio.html#tópicos",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": "Tópicos",
+    "text": "Tópicos\nPara permitir a busca pelos repositórios do INCT-EECBio é necessário que todos os repositórios adicionem tópicos relacionados ao INCT-EECBio e ao grupo de trabalho do projeto. Para criar o tópico, no canto direito da página, em About, clique em configurações.\n\n\nNessa seção adicione os tópicos relacionados ao INCT (incteecbio, inct-eecbio) e incteecbio-grupo_de_trabalho para especificar o grupo de trabalho do repositório. Outros tópicos podem ser incluídos, mas esses são obrigatórios. Cada grupo de trabalho deve incluir os seus respectivos tópicos:\n\nMacroecologia e Macroevolução - incteecbio-macroecology\nAvanços Teóricos e Metodológicos em Ecologia de Comunidades - incteecbio-community-ecology\nModelos de Nicho Ecológico e Mudanças Climáticas - incteecbio-niche-modeling\nGenética e Genômica Evolutiva - incteecbio-genetics\nDiversidade Funcional e Ecossistemas - incteecbio-ecosystem\nConservação da Biodiversidade e Serviços Ecossistêmicos - incteecbio-conservation\nMonitoramento Acústico Automatizado em Larga Escala de Anfíbios Anuros - incteecbio-acoustic\nEcologia Aquática - incteecbio-freshwater"
+  },
+  {
+    "objectID": "criar_repositorio.html#testes",
+    "href": "criar_repositorio.html#testes",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": "Testes",
+    "text": "Testes\nRecomendamos que os repositórios tenham testes dos códigos. Para a linguagem R, os testes podem ser realizados usando o pacote testthat."
+  },
+  {
+    "objectID": "criar_repositorio.html#incluir-colaboradores",
+    "href": "criar_repositorio.html#incluir-colaboradores",
+    "title": "\n\nCriar um repositório\n\n",
+    "section": "Incluir colaboradores",
+    "text": "Incluir colaboradores\nPara incluir colaboradores nos repositórios, com permissão para acessar e contribuir com o repositório, clique em Settings na página do repositório.\n\n\nDepois clique em Manage access &gt; Add people.\n\n\nInclua o nome de usuário do colaborador ou o e-mail."
+  },
+  {
+    "objectID": "criar_conta.html",
+    "href": "criar_conta.html",
+    "title": "\n\nCriar uma conta no GitHub\n\n",
+    "section": "",
+    "text": "Criar uma conta no GitHub\n\n\n \n\nCriar conta no GitHub\nAcesse o endereço https://github.com/ e no canto superior direito clique em Sign up e siga o passo a passo.\n\n\nPreencha seu e-mail e crie uma senha e nome de usuário.\n\n\nEm seguida responda se aceita receber atualizações de produtos e anúncios e resolva o captcha.\n\n\nPreencha a senha recebida no e-mail.\n\n\nEm seguida, o usuário pode personalizar a conta ou pular essa etapa clicando em Skip personalization.\n\n\nAssim, será criada a sua conta no GitHub. O usuário pode agora personalizar o perfil, o readme e criar os repositórios.\nAqui há exemplos de perfis personalizados para a sua inspiração."
+  },
+  {
+    "objectID": "repositorio_inct.html",
+    "href": "repositorio_inct.html",
+    "title": "\n\nCriar um repositório na conta do INCT-EECBio\n\n",
+    "section": "",
+    "text": "Criar um repositório na conta do INCT-EECBio\n\n\n\n\nRepositório INCT-EECBio\nHá três opções para criar repositórios na conta do INCT-EECBio, (1) criando um repositório como INCT-EECBio, (2) transferindo um repositório para o INCT-EECBio ou (3) permitindo que o INCT-EECBio faça uma cópia (fork) do repositório.\n\n1- Criando repositório como INCT-EECBio\nUma vez membro da organização INCT-EECBio, o membro tem permissão de criar repositórios na organização.\n\n\nO repositório pode ser criado na conta do INCT-EECBio trocando o usuário e seguindo os passos sobre como criar um repositório descritos aqui.\n\n\n\n2 - Fork do repositório\nPara que o INCT-EECBio faça um fork do repositório, envie um e-mail para eecbioinct_at_gmail.com e informe que há um repositório desenvolvido com financiamento do INCT-EECBio e informe o endereço do repositório.\n\n\n3 - Transferir um repositório\nHá também a opção de transferir a administração de um repositório para a conta do INCT-EECBio. Nesse caso o usuário deixará de possuir o repositório, que passará a ser do INCT-EECBio. Essa opção é menos a recomendada, pois o repositório deixará de fazer parte do portfolio de projetos do usuário.\nPara transferir um repositório, clique em Settings.\n \n\nEm seguida, clique em Options.\n\n\nPor fim, desça a página até Danger Zone e clique em Transfer na caixa Transfer ownership. Antes de transferir envie um e-mail para eecbioinct_at_gmail.com para que a transferência seja organizada em conjunto com a administração do INCT-EECBio."
+  },
+  {
+    "objectID": "teams.html",
+    "href": "teams.html",
+    "title": "\n\nCriar equipes\n\n",
+    "section": "",
+    "text": "Criar equipes\n\n\n \n\nTeams do repositório\n\nNa organização INCT-EECBio há 8 equipes, cada uma para um grupo de trabalho. Cada membro da organização pode criar outras equipes para configurar as permissões dos colaboradores e membros de um projeto. Cada membro que desejar criar um equipe deve escolher o grupo de trabalho que está inserido e criar um equipe dentro desse grupo de trabalho. Por exemplo, um pesquisador pode criar uma equipe representando o seu laboratório ou um projeto específico ligado à um workshop e permitir que somente pessoas ligadas ao projeto ou ao laboratório possam trabalhar nos repositórios daquela equipe. Há também a possibilidade de criar equipes para laboratórios e em cada laboratório equipes para cada projeto. Dessa forma a estrutura do INCT-EECBio pode ser hierarquizada e melhor gerida como equipes.\n\nPara criar uma equipe clique em View organization no painel principal da conta do GitHub ou no endereço https://github.com/INCT-EECBio.\n\n\nEm seguida clique em Teams.\n\n\nEscolha o grupo de trabalho.\n\n\nClique em Teams.\n\n\nPor fim, clique em New Team.\n\nApós a criação da equipe, os membros podem ser adicionados e sua permissões definidas. Aqui há mais informações sobre equipes."
+  }
+]
